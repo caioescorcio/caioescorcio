@@ -8,7 +8,7 @@ Atualmente sou Diretor de Projetos do [IMESec-USP](https://imesec.ime.usp.br/), 
 
 ---
 
-Meus favoritos repositórios favoritos:
+Meus repositórios favoritos:
 
 - :earth_americas: [Three-Body Problem](https://github.com/caioescorcio/TBP), uma abordagem numérica para o problema conhecido.
 - :video_game: [Minecraft JNI](https://github.com/caioescorcio/minecraft_JNI), um estudo sobre a criação de `cheats` para Minecraft.
