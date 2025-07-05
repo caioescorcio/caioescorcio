@@ -1,10 +1,6 @@
-### Bem vindo ao meu perfil!
+### 
 
-Aqui você vai encontrar alguns repositórios de trabalhos da faculdade, alguns estudos de livros que eu leio e alguns projetinhos 😄
-
----
-
-Atualmente sou Diretor de Projetos do [IMESec-USP](https://imesec.ime.usp.br/), me interesso por segurança e linguagens de baixo nível! 
+Aqui você vai encontrar alguns repositórios de trabalhos da faculdade, alguns estudos de livros que eu leio e alguns projetinhos 
 
 ---
 
@@ -17,6 +13,6 @@ Meus repositórios favoritos:
 
 <br>
 
-Caso queira saber mais, visite meu LinkedIn:
+Meu LinkedIn:
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dourado/) 
