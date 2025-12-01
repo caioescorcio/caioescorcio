@@ -1,15 +1,13 @@
 ### 
 
-Aqui você vai encontrar alguns repositórios de trabalhos da faculdade, alguns estudos de livros que eu leio e alguns projetinhos 
+Here are some interesting projects:
 
 ---
 
-Meus repositórios favoritos:
-
-- :earth_americas: [Three-Body Problem](https://github.com/caioescorcio/TBP), uma abordagem numérica para o problema conhecido.
-- :video_game: [Minecraft JNI](https://github.com/caioescorcio/minecraft_JNI), um estudo sobre a criação de `cheats` para Minecraft.
-- :tophat: [BHPython](https://github.com/caioescorcio/BHPython), um estudo do livro do Seitz e do Arnold de Python para segurança.
-- 🧩[LLP](https://github.com/caioescorcio/LLP), um estudo do livro do Igor Zhirkov sobre Assembly e C
+- :earth_americas: [Three-Body Problem](https://github.com/caioescorcio/TBP).
+- :video_game: [Minecraft JNI](https://github.com/caioescorcio/minecraft_JNI), for Minecraft cheat creation.
+- :tophat: [BHPython](https://github.com/caioescorcio/BHPython), Python cybersecurity book study.
+- 🧩[LLP](https://github.com/caioescorcio/LLP), Assembly and C book study
 
 <br>
 
